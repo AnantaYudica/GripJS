@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/AnantaYudica/GripJS/issues"
   },
-  "homepage": "https://github.com/AnantaYudica/GripJS#readme"
+  "homepage": "https://github.com/AnantaYudica/GripJS#readme",
+  "devDependencies": {
+    "webpack": "^3.0.0"
+  }
 }
