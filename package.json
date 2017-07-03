@@ -1,0 +1,19 @@
+{
+  "name": "gripjs",
+  "version": "0.0.1",
+  "description": "Template Website",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnantaYudica/GripJS.git"
+  },
+  "author": "Ananta Yudica",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnantaYudica/GripJS/issues"
+  },
+  "homepage": "https://github.com/AnantaYudica/GripJS#readme"
+}
